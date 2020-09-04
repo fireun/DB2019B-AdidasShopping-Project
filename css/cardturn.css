@@ -46,7 +46,7 @@
      transition: 1s;
 }
 .cardturn:hover{
-     transform: scale(0.5);
+     transform: scale(1.2);
 }
 .cardselect:hover{
      cursor: pointer;
